@@ -1,3 +1,7 @@
+About
+taskmanager developed using json to store data (using bun and hono) for frontend plain html css and js was used
+
+
 
 
 To install dependencies:
